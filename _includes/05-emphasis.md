@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hi, :smile: my name is **Nicolas**
+I am a student at _**Universidad del Azuay**_.
